@@ -1,0 +1,706 @@
+Product_ID,Product_Name,Category,Sub_Category,Supplier,Manufacturing_Cost,Retail_Price
+PRD-10001,Wall Light 381,Home Decor,Lighting,DecorNova,7678.44,12153.05
+PRD-10002,Decor Sculpture 132,Home Decor,Decorative Items,DecorNova,14720.28,38672.46
+PRD-10003,PowerLite 559,Electronics,Laptops,,16701.4,17875.16
+PRD-10004,Corner Sofa 259,Furniture,Sofas,WoodCraft India,4788.01,6575.06
+PRD-10005,XPhone 467,Electronics,Mobile Phones,ByteKart Technologies,50083.63,57197.98
+PRD-10006,Canvas Art 487,Home Decor,Wall Art,CraftEdge Home,705.51,2018.5
+PRD-10007,Dress 146,Fashion,Women Clothing,TrendHive India,4195.72,5976.04
+PRD-10008,ThinkEdge 384,Electronics,Laptops,TechCore India,18636.87,20013.06
+PRD-10009,Top 818,Fashion,Women Clothing,TrendHive India,1660.36,2546.44
+PRD-10010,File Organizer 267,Office Supplies,Storage Items,OfficePro India,4376.26,5287.6
+PRD-10011,Vase 801,Home Decor,Decorative Items,CraftEdge Home,12353.5,16045.01
+PRD-10012,Keyboard 167,Electronics,Accessories,ByteKart Technologies,26910.85,29538.08
+PRD-10013,Saree 505,Fashion,Women Clothing,TrendHive India,2389.14,3881.9
+PRD-10014,Wardrobe 862,Furniture,Storage,Elite Furnishings,11584.34,15092.62
+PRD-10015,Inkjet Printer 470,Office Supplies,Printers,Corporate Essentials,5964.9,6915.05
+PRD-10016,Laser Printer 981,Office Supplies,Printers,OfficePro India,6114.69,7240.43
+PRD-10017,Canvas Art 494,Home Decor,Wall Art,CraftEdge Home,1581.52,2502.14
+PRD-10018,Marker Kit 217,Office Supplies,Stationery,Corporate Essentials,9659.76,12670.51
+PRD-10019,Running Shoes 545,Fashion,Footwear,,1662.15,2300.72
+PRD-10020,Vase 619,Home Decor,Decorative Items,Aura Living,13779.39,19347.0
+PRD-10021,Vase 256,Home Decor,Decorative Items,CraftEdge Home,2704.15,3848.85
+PRD-10022,Pen Set 600,Office Supplies,Stationery,Corporate Essentials,440.45,418.43
+PRD-10023,Kurti 999,Fashion,Women Clothing,UrbanStyle Wholesale,1442.14,2281.3
+PRD-10024,Canvas Art 231,Home Decor,Wall Art,DecorNova,6440.71,9223.25
+PRD-10025,File Organizer 652,Office Supplies,Storage Items,Stationery Hub,5512.43,6543.09
+PRD-10026,Abstract Painting 548,Home Decor,Wall Art,Aura Living,19400.82,29514.4
+PRD-10027,Gaming Mouse 702,Electronics,Accessories,TechCore India,75462.42,88013.9
+PRD-10028,Office Chair 172,Furniture,Chairs,Elite Furnishings,30699.2,42499.2
+PRD-10029,Snacks Pack 840,Grocery,Packaged Food,PrimeGrocers Ltd,195.22,204.52
+PRD-10030,Organic Mix 294,Grocery,Packaged Food,DailyNeeds Supply,109.55,116.04
+PRD-10031,Charger 984,Fashion,Accessories,FashionNest Apparel,2065.65,2984.81
+PRD-10032,Pendant Light 845,Home Decor,Lighting,DecorNova,16626.13,22858.66
+PRD-10033,Corner Sofa 287,Furniture,Sofas,Elite Furnishings,15484.86,20262.55
+PRD-10034,Smart Watch 767,Electronics,Smart Devices,TechCore India,15569.32,17971.44
+PRD-10035,Study Table 592,Furniture,Tables,WoodCraft India,5578.43,7795.17
+PRD-10036,UltraBook 499,Electronics,Laptops,ByteKart Technologies,62918.36,67689.65
+PRD-10037,Tissue Pack 777,Grocery,Household Essentials,PrimeGrocers Ltd,30.93,34.13
+PRD-10038,Dress 865,Fashion,Women Clothing,UrbanStyle Wholesale,3592.92,5767.18
+PRD-10039,Detergent 158,Grocery,Household Essentials,PrimeGrocers Ltd,1547.12,1603.84
+PRD-10040,Executive Chair 791,Furniture,Chairs,UrbanSpace Furniture,19206.35,23492.7
+PRD-10041,Marker Kit 140,Office Supplies,Stationery,Corporate Essentials,8644.72,11019.08
+PRD-10042,Storage Box 367,Office Supplies,Storage Items,Corporate Essentials,3375.89,3925.19
+PRD-10043,Wardrobe 787,Furniture,Storage,WoodCraft India,16927.15,21413.47
+PRD-10044,XPhone 175,Electronics,Mobile Phones,ByteKart Technologies,59720.46,67656.26
+PRD-10045,Jacket 391,Fashion,Men Clothing,UrbanStyle Wholesale,4458.62,6756.04
+PRD-10046,Canvas Art 783,Home Decor,Wall Art,CraftEdge Home,2656.01,3983.05
+PRD-10047,Wardrobe 860,Furniture,Storage,Elite Furnishings,38517.68,50545.04
+PRD-10048,Pen Set 308,Office Supplies,Stationery,Corporate Essentials,7732.58,9656.13
+PRD-10049,Laser Printer 194,Office Supplies,Printers,Stationery Hub,5275.06,6517.38
+PRD-10050,Nova 752,Electronics,Mobile Phones,ElectroHub Supply,6906.43,7348.62
+PRD-10051,Canvas Art 214,Home Decor,Wall Art,CraftEdge Home,919.15,2436.61
+PRD-10052,Marker Kit 665,Office Supplies,Stationery,Stationery Hub,3212.12,4020.66
+PRD-10053,Running Shoes 315,Fashion,Footwear,UrbanStyle Wholesale,4556.32,6548.58
+PRD-10054,Gaming Mouse 342,Fashion,Accessories,TrendHive India,2169.84,3503.08
+PRD-10055,Luxury Sofa 854,Furniture,Sofas,Elite Furnishings,12982.31,15778.65
+PRD-10056,Detergent 373,Grocery,Household Essentials,PrimeGrocers Ltd,593.71,620.14
+PRD-10057,Snacks Pack 304,Grocery,Packaged Food,DailyNeeds Supply,1860.8,2051.96
+PRD-10058,Dress 775,Fashion,Women Clothing,UrbanStyle Wholesale,3240.34,5362.8
+PRD-10059,Charger 795,Electronics,Accessories,ElectroHub Supply,65275.41,70122.38
+PRD-10060,Keyboard 139,Electronics,Accessories,Nova Imports,71941.92,80583.19
+PRD-10061,Wireless Earbuds 494,Fashion,Accessories,TrendHive India,4075.71,6780.48
+PRD-10062,Smart Hub 925,Electronics,Smart Devices,TechCore India,28850.26,30705.53
+PRD-10063,Pendant Light 171,Home Decor,Lighting,Aura Living,4790.32,6703.99
+PRD-10064,Pendant Light 619,Home Decor,Lighting,CraftEdge Home,16414.89,25463.69
+PRD-10065,Saree 780,Fashion,Women Clothing,UrbanStyle Wholesale,233.37,356.77
+PRD-10066,Bookshelf 953,Furniture,Storage,WoodCraft India,22035.73,20933.94
+PRD-10067,Tissue Pack 429,Grocery,Household Essentials,PrimeGrocers Ltd,257.33,272.87
+PRD-10068,Luxury Sofa 774,Furniture,Sofas,UrbanSpace Furniture,47259.67,59766.5
+PRD-10069,Vase 938,Home Decor,Decorative Items,Aura Living,10520.18,15738.79
+PRD-10070,Dining Table 350,Furniture,Tables,Elite Furnishings,19454.22,27126.12
+PRD-10071,Smart Hub 689,Electronics,Smart Devices,ByteKart Technologies,77183.55,83569.08
+PRD-10072,Coffee Table 105,Furniture,Tables,UrbanSpace Furniture,25867.93,32598.14
+PRD-10073,Smart Watch 923,Electronics,Smart Devices,Nova Imports,26363.04,27807.61
+PRD-10074,Executive Chair 920,Furniture,Chairs,WoodCraft India,31259.09,40653.57
+PRD-10075,Storage Box 727,Office Supplies,Storage Items,Stationery Hub,609.64,735.06
+PRD-10076,Detergent 861,Grocery,Household Essentials,DailyNeeds Supply,1818.37,1912.13
+PRD-10077,Cabinet 741,Furniture,Storage,UrbanSpace Furniture,8954.95,11622.54
+PRD-10078,Abstract Painting 443,Home Decor,Wall Art,DecorNova,19717.31,26317.08
+PRD-10079,Luxury Sofa 823,Furniture,Sofas,UrbanSpace Furniture,34262.51,46334.01
+PRD-10080,Wireless Earbuds 311,Fashion,Accessories,FashionNest Apparel,1340.66,2151.59
+PRD-10081,Storage Box 588,Office Supplies,Storage Items,OfficePro India,3741.05,3554.0
+PRD-10082,Energy Drink 852,Grocery,Beverages,PrimeGrocers Ltd,1274.39,1374.07
+PRD-10083,Corner Sofa 546,Furniture,Sofas,Elite Furnishings,6333.91,8658.84
+PRD-10084,Vase 960,Home Decor,Decorative Items,Aura Living,6619.37,8706.33
+PRD-10085,Smart Watch 758,Electronics,Smart Devices,TechCore India,8058.14,9080.04
+PRD-10086,Gaming Mouse 565,Fashion,Accessories,FashionNest Apparel,3452.31,4680.66
+PRD-10087,Coffee 954,Grocery,Beverages,DailyNeeds Supply,1033.94,1086.03
+PRD-10088,Notebook 765,Office Supplies,Stationery,Stationery Hub,6487.21,7686.52
+PRD-10089,Nova 959,Electronics,Mobile Phones,Nova Imports,56820.33,57956.74
+PRD-10090,LED Lamp 576,Home Decor,Lighting,CraftEdge Home,18753.58,24344.63
+PRD-10091,File Organizer 896,Office Supplies,Storage Items,Corporate Essentials,3476.56,4076.94
+PRD-10092,SmartOne 506,Electronics,Mobile Phones,ElectroHub Supply,74352.02,86549.77
+PRD-10093,Wall Light 891,Home Decor,Lighting,DecorNova,5381.45,7969.9
+PRD-10094,Marker Kit 538,Office Supplies,Stationery,Stationery Hub,8190.5,10328.55
+PRD-10095,Abstract Painting 942,Home Decor,Wall Art,DecorNova,10734.12,14326.28
+PRD-10096,Cleaner 280,Grocery,Household Essentials,FreshKart Distributors,204.34,226.97
+PRD-10097,Charger 945,Fashion,Accessories,FashionNest Apparel,4522.01,7106.73
+PRD-10098,Office Chair 349,Furniture,Chairs,WoodCraft India,18273.43,23204.37
+PRD-10099,Canvas Art 606,Home Decor,Wall Art,Aura Living,14601.33,22836.31
+PRD-10100,Sandals 818,Fashion,Footwear,FashionNest Apparel,4458.01,7235.16
+PRD-10101,Notebook 837,Office Supplies,Stationery,OfficePro India,6456.11,7533.17
+PRD-10102,Recliner 602,Furniture,Sofas,UrbanSpace Furniture,9758.18,13463.47
+PRD-10103,Kurti 413,Fashion,Women Clothing,FashionNest Apparel,3110.86,4209.67
+PRD-10104,Storage Box 863,Office Supplies,Storage Items,Stationery Hub,1104.57,1416.83
+PRD-10105,Coffee 336,Grocery,Beverages,DailyNeeds Supply,30.02,31.36
+PRD-10106,PowerLite 856,Electronics,Laptops,Nova Imports,46155.03,52614.26
+PRD-10107,File Organizer 952,Office Supplies,Storage Items,Stationery Hub,6554.42,7831.57
+PRD-10108,Bookshelf 646,Furniture,Storage,Elite Furnishings,36184.6,45138.47
+PRD-10109,Charger 205,Electronics,Accessories,Nova Imports,29404.98,33728.8
+PRD-10110,Juice 358,Grocery,Beverages,FreshKart Distributors,1306.27,1445.3
+PRD-10111,Smart Watch 690,Electronics,Smart Devices,ByteKart Technologies,54320.97,61050.26
+PRD-10112,Laser Printer 221,Office Supplies,Printers,OfficePro India,1027.38,1257.04
+PRD-10113,Storage Box 561,Office Supplies,Storage Items,OfficePro India,2725.5,3267.32
+PRD-10114,Laser Printer 724,Office Supplies,Printers,Stationery Hub,9732.8,11957.91
+PRD-10115,Coffee Table 183,Furniture,Tables,WoodCraft India,44818.23,59439.18
+PRD-10116,ThinkEdge 561,Electronics,Laptops,TechCore India,64610.85,72063.25
+PRD-10117,Running Shoes 172,Fashion,Footwear,TrendHive India,2969.14,4520.16
+PRD-10118,Vase 535,Home Decor,Decorative Items,CraftEdge Home,4146.29,6231.29
+PRD-10119,Dress 269,Fashion,Women Clothing,UrbanStyle Wholesale,1547.71,2102.58
+PRD-10120,Laser Printer 579,Office Supplies,Printers,Stationery Hub,6490.18,7693.6
+PRD-10121,Wireless Earbuds 712,Fashion,Accessories,FashionNest Apparel,4714.2,7938.12
+PRD-10122,Sneakers 334,Fashion,Footwear,UrbanStyle Wholesale,4591.35,6793.16
+PRD-10123,Storage Box 690,Office Supplies,Storage Items,OfficePro India,253.02,337.95
+PRD-10124,Cleaner 384,Grocery,Household Essentials,PrimeGrocers Ltd,867.8,969.33
+PRD-10125,Abstract Painting 456,Home Decor,Wall Art,DecorNova,19283.31,29861.23
+PRD-10126,Bookshelf 607,Furniture,Storage,WoodCraft India,16133.55,20602.86
+PRD-10127,Notebook 422,Office Supplies,Stationery,Stationery Hub,8526.25,10345.62
+PRD-10128,Tissue Pack 990,Grocery,Household Essentials,FreshKart Distributors,355.6,384.09
+PRD-10129,Cabinet 740,Furniture,Storage,UrbanSpace Furniture,46935.43,62856.21
+PRD-10130,Saree 815,Fashion,Women Clothing,FashionNest Apparel,2936.29,4063.86
+PRD-10131,Vase 418,Home Decor,Decorative Items,DecorNova,12415.64,19821.8
+PRD-10132,Smart Hub 952,Electronics,Smart Devices,TechCore India,15506.3,17326.47
+PRD-10133,Abstract Painting 583,Home Decor,Wall Art,Aura Living,17584.25,26539.36
+PRD-10134,File Organizer 984,Office Supplies,Storage Items,Corporate Essentials,7000.46,9034.07
+PRD-10135,Coffee 940,Grocery,Beverages,PrimeGrocers Ltd,731.79,695.2
+PRD-10136,Storage Box 986,Office Supplies,Storage Items,Corporate Essentials,8112.68,10644.02
+PRD-10137,Sandals 486,Fashion,Footwear,TrendHive India,4361.95,7282.86
+PRD-10138,Study Table 339,Furniture,Tables,UrbanSpace Furniture,26544.44,34515.82
+PRD-10139,Charger 495,Fashion,Accessories,TrendHive India,4031.82,6360.15
+PRD-10140,LED Lamp 229,Home Decor,Lighting,Aura Living,14128.75,21596.18
+PRD-10141,Organic Mix 115,Grocery,Packaged Food,PrimeGrocers Ltd,1782.21,1889.89
+PRD-10142,Pendant Light 900,Home Decor,Lighting,DecorNova,7698.98,9876.97
+PRD-10143,Wall Light 979,Home Decor,Lighting,Aura Living,11692.12,14762.23
+PRD-10144,Tissue Pack 170,Grocery,Household Essentials,FreshKart Distributors,941.88,1016.14
+PRD-10145,Dress 544,Fashion,Women Clothing,TrendHive India,1575.4,2452.57
+PRD-10146,LED Lamp 810,Home Decor,Lighting,Aura Living,900.85,855.81
+PRD-10147,Keyboard 541,Electronics,Accessories,ElectroHub Supply,66695.04,73152.77
+PRD-10148,Dining Table 724,Furniture,Tables,Elite Furnishings,8098.9,10564.6
+PRD-10149,Luxury Sofa 337,Furniture,Sofas,UrbanSpace Furniture,38959.69,48433.29
+PRD-10150,Jacket 793,Fashion,Men Clothing,FashionNest Apparel,3189.87,4401.61
+PRD-10151,Running Shoes 806,Fashion,Footwear,TrendHive India,448.07,688.22
+PRD-10152,Luxury Sofa 342,Furniture,Sofas,WoodCraft India,27950.49,37103.88
+PRD-10153,Sandals 505,Fashion,Footwear,UrbanStyle Wholesale,3685.24,6233.76
+PRD-10154,Decor Sculpture 952,Home Decor,Decorative Items,DecorNova,10471.12,14272.5
+PRD-10155,Laser Printer 735,Office Supplies,Printers,OfficePro India,7972.34,9600.02
+PRD-10156,Vase 742,Home Decor,Decorative Items,DecorNova,8947.74,11430.38
+PRD-10157,Laser Printer 192,Office Supplies,Printers,Corporate Essentials,350.97,471.19
+PRD-10158,Snacks Pack 905,Grocery,Packaged Food,FreshKart Distributors,1675.24,1830.43
+PRD-10159,File Organizer 363,Office Supplies,Storage Items,Stationery Hub,4148.63,4914.71
+PRD-10160,Running Shoes 177,Fashion,Footwear,UrbanStyle Wholesale,950.9,1367.0
+PRD-10161,Decor Sculpture 966,Home Decor,Decorative Items,CraftEdge Home,11119.77,16680.86
+PRD-10162,Charger 477,Electronics,Accessories,TechCore India,54514.8,59224.41
+PRD-10163,Canvas Art 582,Home Decor,Wall Art,DecorNova,19110.85,51883.58
+PRD-10164,Notebook 750,Office Supplies,Stationery,Corporate Essentials,5588.11,7110.0
+PRD-10165,Gaming Mouse 146,Fashion,Accessories,UrbanStyle Wholesale,2214.08,3180.98
+PRD-10166,Snacks Pack 650,Grocery,Packaged Food,FreshKart Distributors,724.83,796.01
+PRD-10167,Decor Sculpture 701,Home Decor,Decorative Items,CraftEdge Home,583.55,753.14
+PRD-10168,Smart Camera 133,Electronics,Smart Devices,ByteKart Technologies,8450.2,8917.45
+PRD-10169,Bookshelf 476,Furniture,Storage,Elite Furnishings,43062.11,57734.73
+PRD-10170,Jacket 294,Fashion,Men Clothing,FashionNest Apparel,2476.03,3427.42
+PRD-10171,Snacks Pack 757,Grocery,Packaged Food,PrimeGrocers Ltd,993.4,1065.53
+PRD-10172,Gaming Mouse 905,Electronics,Accessories,Nova Imports,17990.14,19904.3
+PRD-10173,Study Table 892,Furniture,Tables,Elite Furnishings,21128.23,27956.24
+PRD-10174,Gaming Mouse 653,Electronics,Accessories,Nova Imports,52632.02,55573.6
+PRD-10175,ZenPro 908,Electronics,Laptops,TechCore India,33095.95,37443.49
+PRD-10176,Hoodie 638,Fashion,Men Clothing,UrbanStyle Wholesale,2615.05,4314.23
+PRD-10177,Energy Drink 211,Grocery,Beverages,PrimeGrocers Ltd,1324.21,1383.35
+PRD-10178,Marker Kit 633,Office Supplies,Stationery,Corporate Essentials,798.63,1021.04
+PRD-10179,SmartOne 536,Electronics,Mobile Phones,ByteKart Technologies,6988.35,7869.94
+PRD-10180,Nova 167,Electronics,Mobile Phones,ElectroHub Supply,75517.27,84942.7
+PRD-10181,Abstract Painting 564,Home Decor,Wall Art,Aura Living,7946.95,11722.95
+PRD-10182,ThinkEdge 333,Electronics,Laptops,ByteKart Technologies,39368.97,44129.87
+PRD-10183,Pendant Light 420,Home Decor,Lighting,Aura Living,18846.86,26105.46
+PRD-10184,Snacks Pack 195,Grocery,Packaged Food,FreshKart Distributors,1923.16,2137.56
+PRD-10185,Dress 700,Fashion,Women Clothing,TrendHive India,1139.8,1566.4
+PRD-10186,Pendant Light 994,Home Decor,Lighting,Aura Living,2285.33,2871.24
+PRD-10187,Wall Light 419,Home Decor,Lighting,Aura Living,2160.53,3217.14
+PRD-10188,Canvas Art 458,Home Decor,Wall Art,DecorNova,1702.42,2318.09
+PRD-10189,Marker Kit 885,Office Supplies,Stationery,Stationery Hub,8464.27,9773.31
+PRD-10190,Decor Sculpture 129,Home Decor,Decorative Items,DecorNova,16345.03,22043.71
+PRD-10191,Sneakers 990,Fashion,Footwear,UrbanStyle Wholesale,767.19,1222.79
+PRD-10192,UltraBook 864,Electronics,Laptops,TechCore India,52170.71,60730.43
+PRD-10193,Bookshelf 432,Furniture,Storage,WoodCraft India,37283.41,50731.39
+PRD-10194,Nova 872,Electronics,Mobile Phones,Nova Imports,26152.59,28063.48
+PRD-10195,Abstract Painting 524,Home Decor,Wall Art,Aura Living,15087.11,23119.37
+PRD-10196,Instant Meal 794,Grocery,Packaged Food,DailyNeeds Supply,1981.2,2114.21
+PRD-10197,Hoodie 713,Fashion,Men Clothing,UrbanStyle Wholesale,1985.69,3220.28
+PRD-10198,Study Table 435,Furniture,Tables,WoodCraft India,18358.57,25447.76
+PRD-10199,Organic Mix 645,Grocery,Packaged Food,FreshKart Distributors,1719.66,1837.64
+PRD-10200,Abstract Painting 982,Home Decor,Wall Art,DecorNova,15092.16,22850.89
+PRD-10201,Charger 826,Electronics,Accessories,ByteKart Technologies,12734.29,14865.14
+PRD-10202,Saree 951,Fashion,Women Clothing,TrendHive India,2625.21,4303.4
+PRD-10203,Organic Mix 703,Grocery,Packaged Food,FreshKart Distributors,653.7,726.0
+PRD-10204,Running Shoes 897,Fashion,Footwear,UrbanStyle Wholesale,2068.17,2799.87
+PRD-10205,ZenPro 844,Electronics,Laptops,ElectroHub Supply,72903.65,77414.0
+PRD-10206,PowerLite 277,Electronics,Laptops,ElectroHub Supply,28948.52,33971.32
+PRD-10207,Recliner 878,Furniture,Sofas,WoodCraft India,47629.14,62617.44
+PRD-10208,Storage Box 984,Office Supplies,Storage Items,Corporate Essentials,6355.19,7878.46
+PRD-10209,Organic Mix 746,Grocery,Packaged Food,DailyNeeds Supply,600.56,636.34
+PRD-10210,Keyboard 572,Electronics,Accessories,TechCore India,55438.88,63633.23
+PRD-10211,SmartOne 694,Electronics,Mobile Phones,ByteKart Technologies,64368.43,74194.29
+PRD-10212,Detergent 429,Grocery,Household Essentials,PrimeGrocers Ltd,200.59,215.53
+PRD-10213,Smart Camera 831,Electronics,Smart Devices,TechCore India,9316.91,9503.25
+PRD-10214,Canvas Art 472,Home Decor,Wall Art,Aura Living,8998.15,14043.38
+PRD-10215,Jacket 167,Fashion,Men Clothing,TrendHive India,1884.39,2621.14
+PRD-10216,Energy Drink 972,Grocery,Beverages,DailyNeeds Supply,303.12,332.99
+PRD-10217,Bookshelf 779,Furniture,Storage,Elite Furnishings,31674.47,38649.97
+PRD-10218,Decor Sculpture 232,Home Decor,Decorative Items,CraftEdge Home,1956.9,2926.23
+PRD-10219,Detergent 786,Grocery,Household Essentials,DailyNeeds Supply,164.07,181.13
+PRD-10220,Decor Sculpture 620,Home Decor,Decorative Items,DecorNova,14212.97,18170.89
+PRD-10221,Wardrobe 331,Furniture,Storage,WoodCraft India,6072.21,8484.87
+PRD-10222,T-Shirt 777,Fashion,Men Clothing,TrendHive India,1996.5,2954.27
+PRD-10223,Luxury Sofa 285,Furniture,Sofas,Elite Furnishings,41014.38,56987.42
+PRD-10224,Corner Sofa 473,Furniture,Sofas,Elite Furnishings,49328.05,66626.2
+PRD-10225,Tissue Pack 902,Grocery,Household Essentials,DailyNeeds Supply,764.99,793.69
+PRD-10226,Keyboard 794,Fashion,Accessories,UrbanStyle Wholesale,3930.31,6074.06
+PRD-10227,Energy Drink 640,Grocery,Beverages,DailyNeeds Supply,859.96,955.91
+PRD-10228,Dining Table 756,Furniture,Tables,WoodCraft India,7337.48,9527.9
+PRD-10229,XPhone 881,Electronics,Mobile Phones,ElectroHub Supply,5851.52,6500.61
+PRD-10230,Organic Mix 457,Grocery,Packaged Food,FreshKart Distributors,131.48,136.83
+PRD-10231,Detergent 495,Grocery,Household Essentials,DailyNeeds Supply,252.7,275.05
+PRD-10232,Keyboard 910,Electronics,Accessories,TechCore India,60953.37,68623.62
+PRD-10233,Tissue Pack 580,Grocery,Household Essentials,,1925.1,2047.8
+PRD-10234,Nova 955,Electronics,Mobile Phones,ElectroHub Supply,26428.41,30734.07
+PRD-10235,Snacks Pack 408,Grocery,Packaged Food,DailyNeeds Supply,462.72,516.71
+PRD-10236,Vase 213,Home Decor,Decorative Items,Aura Living,539.44,857.42
+PRD-10237,Vase 835,Home Decor,Decorative Items,CraftEdge Home,1150.25,1796.58
+PRD-10238,Recliner 784,Furniture,Sofas,Elite Furnishings,27329.65,38223.06
+PRD-10239,SmartOne 144,Electronics,Mobile Phones,ByteKart Technologies,10534.74,11819.99
+PRD-10240,Keyboard 346,Electronics,Accessories,TechCore India,77697.69,86866.23
+PRD-10241,Canvas Art 460,Home Decor,Wall Art,DecorNova,12699.15,18966.33
+PRD-10242,Abstract Painting 746,Home Decor,Wall Art,CraftEdge Home,9254.46,13600.77
+PRD-10243,Snacks Pack 144,Grocery,Packaged Food,DailyNeeds Supply,1176.94,1307.7
+PRD-10244,Running Shoes 934,Fashion,Footwear,TrendHive India,418.14,605.61
+PRD-10245,Pendant Light 982,Home Decor,Lighting,Aura Living,19023.11,29706.34
+PRD-10246,Charger 861,Electronics,Accessories,ByteKart Technologies,39174.26,44291.09
+PRD-10247,Corner Sofa 476,Furniture,Sofas,UrbanSpace Furniture,15314.3,18953.35
+PRD-10248,Smart Camera 716,Electronics,Smart Devices,TechCore India,39777.38,43593.45
+PRD-10249,PixelMax 413,Electronics,Mobile Phones,ElectroHub Supply,48774.21,51705.81
+PRD-10250,Juice 844,Grocery,Beverages,DailyNeeds Supply,1949.3,2180.8
+PRD-10251,Juice 176,Grocery,Beverages,PrimeGrocers Ltd,1402.36,1512.09
+PRD-10252,File Organizer 131,Office Supplies,Storage Items,Corporate Essentials,3164.32,4153.99
+PRD-10253,Snacks Pack 341,Grocery,Packaged Food,FreshKart Distributors,1375.77,1437.18
+PRD-10254,Tissue Pack 257,Grocery,Household Essentials,FreshKart Distributors,1823.64,2013.35
+PRD-10255,Gaming Mouse 642,Fashion,Accessories,UrbanStyle Wholesale,4759.04,7633.51
+PRD-10256,Dress 853,Fashion,Women Clothing,UrbanStyle Wholesale,3144.39,4705.22
+PRD-10257,Pen Set 820,Office Supplies,Stationery,Stationery Hub,9334.01,12350.88
+PRD-10258,Wireless Earbuds 238,Fashion,Accessories,UrbanStyle Wholesale,417.05,566.87
+PRD-10259,Abstract Painting 783,Home Decor,Wall Art,DecorNova,7716.33,11834.49
+PRD-10260,Kurti 912,Fashion,Women Clothing,TrendHive India,4938.93,6927.57
+PRD-10261,Study Table 126,Furniture,Tables,Elite Furnishings,30518.27,38946.75
+PRD-10262,Tissue Pack 188,Grocery,Household Essentials,FreshKart Distributors,1940.43,2145.71
+PRD-10263,Decor Sculpture 887,Home Decor,Decorative Items,Aura Living,16815.08,23777.24
+PRD-10264,Hoodie 796,Fashion,Men Clothing,FashionNest Apparel,2191.13,3167.7
+PRD-10265,File Organizer 886,Office Supplies,Storage Items,Corporate Essentials,658.12,870.66
+PRD-10266,PixelMax 268,Electronics,Mobile Phones,Nova Imports,65967.58,77839.32
+PRD-10267,Inkjet Printer 301,Office Supplies,Printers,OfficePro India,9966.7,12568.87
+PRD-10268,Bookshelf 195,Furniture,Storage,UrbanSpace Furniture,38911.4,54046.11
+PRD-10269,Marker Kit 739,Office Supplies,Stationery,OfficePro India,8511.51,10209.3
+PRD-10270,Notebook 146,Office Supplies,Stationery,OfficePro India,4560.39,5362.25
+PRD-10271,Saree 732,Fashion,Women Clothing,TrendHive India,4779.44,7466.26
+PRD-10272,Decor Sculpture 594,Home Decor,Decorative Items,Aura Living,4804.26,7134.78
+PRD-10273,Snacks Pack 261,Grocery,Packaged Food,PrimeGrocers Ltd,1243.89,1321.3
+PRD-10274,Wardrobe 420,Furniture,Storage,UrbanSpace Furniture,7450.76,9941.66
+PRD-10275,Keyboard 627,Fashion,Accessories,UrbanStyle Wholesale,2697.48,4370.76
+PRD-10276,Organic Mix 353,Grocery,Packaged Food,DailyNeeds Supply,1049.92,1161.94
+PRD-10277,Detergent 986,Grocery,Household Essentials,DailyNeeds Supply,1112.78,1202.34
+PRD-10278,File Organizer 881,Office Supplies,Storage Items,Stationery Hub,8778.87,10804.13
+PRD-10279,Coffee 123,Grocery,Beverages,DailyNeeds Supply,285.35,294.65
+PRD-10280,Instant Meal 461,Grocery,Packaged Food,FreshKart Distributors,1515.17,1645.21
+PRD-10281,Storage Box 392,Office Supplies,Storage Items,Corporate Essentials,7070.39,8432.1
+PRD-10282,Instant Meal 474,Grocery,Packaged Food,DailyNeeds Supply,290.02,299.1
+PRD-10283,Instant Meal 299,Grocery,Packaged Food,PrimeGrocers Ltd,714.16,773.5
+PRD-10284,Tissue Pack 386,Grocery,Household Essentials,DailyNeeds Supply,796.64,851.91
+PRD-10285,Notebook 503,Office Supplies,Stationery,OfficePro India,9051.17,11039.27
+PRD-10286,Laser Printer 716,Office Supplies,Printers,OfficePro India,5188.5,6779.97
+PRD-10287,PixelMax 923,Electronics,Mobile Phones,Nova Imports,34740.71,39287.27
+PRD-10288,Marker Kit 426,Office Supplies,Stationery,Stationery Hub,8637.4,11573.29
+PRD-10289,Abstract Painting 619,Home Decor,Wall Art,CraftEdge Home,3197.35,5033.61
+PRD-10290,Keyboard 439,Fashion,Accessories,UrbanStyle Wholesale,2562.16,3690.5
+PRD-10291,Laser Printer 711,Office Supplies,Printers,Corporate Essentials,4645.44,6252.79
+PRD-10292,File Organizer 697,Office Supplies,Storage Items,OfficePro India,4976.92,6050.69
+PRD-10293,Vase 941,Home Decor,Decorative Items,Aura Living,12778.0,17046.5
+PRD-10294,ThinkEdge 421,Electronics,Laptops,TechCore India,10689.75,11403.34
+PRD-10295,File Organizer 822,Office Supplies,Storage Items,Stationery Hub,1367.65,1614.35
+PRD-10296,Charger 421,Fashion,Accessories,TrendHive India,866.37,1363.93
+PRD-10297,Inkjet Printer 792,Office Supplies,Printers,Corporate Essentials,1900.61,2317.1
+PRD-10298,Decor Sculpture 296,Home Decor,Decorative Items,Aura Living,17966.73,25438.85
+PRD-10299,Sneakers 806,Fashion,Footwear,TrendHive India,3404.28,4801.1
+PRD-10300,Sneakers 687,Fashion,Footwear,FashionNest Apparel,1122.99,1532.1
+PRD-10301,Coffee 143,Grocery,Beverages,FreshKart Distributors,354.49,374.01
+PRD-10302,Keyboard 865,Fashion,Accessories,TrendHive India,1049.65,1449.61
+PRD-10303,Inkjet Printer 240,Office Supplies,Printers,Corporate Essentials,1294.3,1607.72
+PRD-10304,Coffee Table 643,Furniture,Tables,Elite Furnishings,11904.02,15152.08
+PRD-10305,Smart Hub 583,Electronics,Smart Devices,,42756.3,48731.55
+PRD-10306,Marker Kit 999,Office Supplies,Stationery,Stationery Hub,489.19,640.78
+PRD-10307,Sandals 160,Fashion,Footwear,FashionNest Apparel,3213.92,4430.76
+PRD-10308,Marker Kit 840,Office Supplies,Stationery,Corporate Essentials,8748.43,11671.93
+PRD-10309,Luxury Sofa 956,Furniture,Sofas,Elite Furnishings,4931.74,6191.19
+PRD-10310,Canvas Art 405,Home Decor,Wall Art,DecorNova,16182.17,24465.68
+PRD-10311,Charger 237,Fashion,Accessories,TrendHive India,1085.7,1545.25
+PRD-10312,Executive Chair 848,Furniture,Chairs,WoodCraft India,19782.66,25656.22
+PRD-10313,Office Chair 909,Furniture,Chairs,UrbanSpace Furniture,31676.23,40348.63
+PRD-10314,Coffee Table 515,Furniture,Tables,UrbanSpace Furniture,24201.67,32660.01
+PRD-10315,Smart Watch 243,Electronics,Smart Devices,,7751.24,8393.17
+PRD-10316,Organic Mix 437,Grocery,Packaged Food,DailyNeeds Supply,1432.43,1590.81
+PRD-10317,Gaming Mouse 163,Electronics,Accessories,ElectroHub Supply,43375.81,48545.11
+PRD-10318,Decor Sculpture 806,Home Decor,Decorative Items,CraftEdge Home,2411.29,3391.71
+PRD-10319,Notebook 589,Office Supplies,Stationery,OfficePro India,5372.91,6439.4
+PRD-10320,Inkjet Printer 875,Office Supplies,Printers,Stationery Hub,2765.51,3389.01
+PRD-10321,Coffee Table 994,Furniture,Tables,UrbanSpace Furniture,2963.42,3747.0
+PRD-10322,File Organizer 677,Office Supplies,Storage Items,Stationery Hub,2193.34,2666.0
+PRD-10323,Marker Kit 253,Office Supplies,Stationery,Corporate Essentials,1285.65,1707.48
+PRD-10324,Snacks Pack 834,Grocery,Packaged Food,PrimeGrocers Ltd,1195.31,1304.23
+PRD-10325,Inkjet Printer 235,Office Supplies,Printers,OfficePro India,7912.8,9888.53
+PRD-10326,Smart Hub 122,Electronics,Smart Devices,ElectroHub Supply,11519.02,12899.27
+PRD-10327,Pen Set 452,Office Supplies,Stationery,OfficePro India,5909.73,7677.26
+PRD-10328,XPhone 393,Electronics,Mobile Phones,ByteKart Technologies,37374.47,39863.07
+PRD-10329,Decor Sculpture 491,Home Decor,Decorative Items,Aura Living,5890.39,8111.53
+PRD-10330,UltraBook 282,Electronics,Laptops,ElectroHub Supply,53443.79,60081.57
+PRD-10331,Office Chair 574,Furniture,Chairs,Elite Furnishings,19092.64,26678.2
+PRD-10332,Laser Printer 571,Office Supplies,Printers,OfficePro India,6097.17,7301.03
+PRD-10333,Wall Light 529,Home Decor,Lighting,DecorNova,2305.11,3004.71
+PRD-10334,Dining Table 708,Furniture,Tables,Elite Furnishings,13805.97,17010.84
+PRD-10335,Wall Light 145,Home Decor,Lighting,DecorNova,3975.37,5365.89
+PRD-10336,PowerLite 935,Electronics,Laptops,ElectroHub Supply,18003.02,21001.95
+PRD-10337,Abstract Painting 997,Home Decor,Wall Art,DecorNova,1880.6,2695.99
+PRD-10338,Sandals 705,Fashion,Footwear,UrbanStyle Wholesale,2169.9,3675.45
+PRD-10339,Decor Sculpture 148,Home Decor,Decorative Items,Aura Living,2507.17,3483.08
+PRD-10340,Inkjet Printer 518,Office Supplies,Printers,Corporate Essentials,9697.76,12831.12
+PRD-10341,Laser Printer 407,Office Supplies,Printers,OfficePro India,8189.01,9839.76
+PRD-10342,Organic Mix 526,Grocery,Packaged Food,PrimeGrocers Ltd,358.36,390.68
+PRD-10343,Cabinet 762,Furniture,Storage,Elite Furnishings,46610.05,61122.21
+PRD-10344,Jeans 152,Fashion,Men Clothing,TrendHive India,2943.74,4262.51
+PRD-10345,Notebook 923,Office Supplies,Stationery,OfficePro India,7717.98,9164.4
+PRD-10346,Notebook 990,Office Supplies,Stationery,Stationery Hub,3304.42,4081.25
+PRD-10347,UltraBook 864,Electronics,Laptops,Nova Imports,43070.78,46581.62
+PRD-10348,Storage Box 345,Office Supplies,Storage Items,OfficePro India,1236.88,1573.46
+PRD-10349,Energy Drink 467,Grocery,Beverages,PrimeGrocers Ltd,591.49,640.18
+PRD-10350,Energy Drink 580,Grocery,Beverages,FreshKart Distributors,325.64,349.51
+PRD-10351,Cabinet 146,Furniture,Storage,WoodCraft India,27564.29,33362.84
+PRD-10352,Gaming Chair 698,Furniture,Chairs,WoodCraft India,18157.01,22276.53
+PRD-10353,Dining Table 488,Furniture,Tables,WoodCraft India,5042.0,7048.68
+PRD-10354,Storage Box 363,Office Supplies,Storage Items,Corporate Essentials,3291.3,4318.1
+PRD-10355,Decor Sculpture 571,Home Decor,Decorative Items,CraftEdge Home,5316.42,7913.63
+PRD-10356,Vase 655,Home Decor,Decorative Items,Aura Living,15276.49,22280.36
+PRD-10357,SmartOne 240,Electronics,Mobile Phones,TechCore India,40368.21,44547.91
+PRD-10358,ZenPro 161,Electronics,Laptops,ByteKart Technologies,31165.12,36489.33
+PRD-10359,Detergent 106,Grocery,Household Essentials,DailyNeeds Supply,1664.63,1859.15
+PRD-10360,Wireless Earbuds 614,Electronics,Accessories,ElectroHub Supply,14322.29,16399.2
+PRD-10361,Gaming Chair 252,Furniture,Chairs,Elite Furnishings,47040.34,58153.46
+PRD-10362,Running Shoes 180,Fashion,Footwear,FashionNest Apparel,519.18,835.56
+PRD-10363,Notebook 407,Office Supplies,Stationery,Corporate Essentials,5787.28,7629.75
+PRD-10364,Vase 515,Home Decor,Decorative Items,DecorNova,3053.52,4666.83
+PRD-10365,ThinkEdge 965,Electronics,Laptops,TechCore India,20122.05,21556.25
+PRD-10366,Nova 988,Electronics,Mobile Phones,Nova Imports,17319.93,20020.02
+PRD-10367,Gaming Mouse 970,Electronics,Accessories,TechCore India,54889.79,61366.7
+PRD-10368,Abstract Painting 266,Home Decor,Wall Art,DecorNova,7368.96,11473.62
+PRD-10369,Decor Sculpture 873,Home Decor,Decorative Items,Aura Living,8031.17,12334.35
+PRD-10370,Wireless Earbuds 547,Electronics,Accessories,TechCore India,37935.12,41690.8
+PRD-10371,Storage Box 130,Office Supplies,Storage Items,Stationery Hub,4680.53,5664.73
+PRD-10372,Coffee 666,Grocery,Beverages,FreshKart Distributors,1500.27,1613.16
+PRD-10373,Decor Sculpture 187,Home Decor,Decorative Items,CraftEdge Home,4874.59,7628.01
+PRD-10374,Nova 489,Electronics,Mobile Phones,ElectroHub Supply,33791.84,37869.23
+PRD-10375,Sneakers 105,Fashion,Footwear,UrbanStyle Wholesale,4551.07,7138.28
+PRD-10376,T-Shirt 291,Fashion,Men Clothing,UrbanStyle Wholesale,761.11,1277.86
+PRD-10377,Laser Printer 191,Office Supplies,Printers,OfficePro India,6314.31,7684.4
+PRD-10378,Laser Printer 398,Office Supplies,Printers,Stationery Hub,1478.79,1935.45
+PRD-10379,Vase 801,Home Decor,Decorative Items,DecorNova,12515.43,17981.06
+PRD-10380,Snacks Pack 545,Grocery,Packaged Food,FreshKart Distributors,1789.91,1970.64
+PRD-10381,Gaming Mouse 838,Electronics,Accessories,ElectroHub Supply,16375.62,17858.0
+PRD-10382,UltraBook 505,Electronics,Laptops,ElectroHub Supply,23636.69,27104.5
+PRD-10383,Charger 935,Fashion,Accessories,FashionNest Apparel,360.96,559.29
+PRD-10384,Pen Set 717,Office Supplies,Stationery,Stationery Hub,7648.34,10136.75
+PRD-10385,Top 398,Fashion,Women Clothing,FashionNest Apparel,1841.99,3016.15
+PRD-10386,Pen Set 387,Office Supplies,Stationery,Stationery Hub,1195.25,1576.88
+PRD-10387,UltraBook 844,Electronics,Laptops,Nova Imports,14561.65,16041.8
+PRD-10388,Hoodie 242,Fashion,Men Clothing,FashionNest Apparel,4027.02,5647.78
+PRD-10389,Pendant Light 908,Home Decor,Lighting,CraftEdge Home,4816.25,7237.8
+PRD-10390,Inkjet Printer 656,Office Supplies,Printers,Corporate Essentials,7228.36,9239.5
+PRD-10391,Vase 211,Home Decor,Decorative Items,CraftEdge Home,13970.78,20117.27
+PRD-10392,Decor Sculpture 870,Home Decor,Decorative Items,DecorNova,5260.44,7212.03
+PRD-10393,Gaming Mouse 556,Electronics,Accessories,Nova Imports,18619.83,21749.8
+PRD-10394,Decor Sculpture 125,Home Decor,Decorative Items,DecorNova,11792.82,16395.53
+PRD-10395,PixelMax 419,Electronics,Mobile Phones,Nova Imports,39650.44,46515.79
+PRD-10396,Charger 839,Fashion,Accessories,UrbanStyle Wholesale,936.09,1455.79
+PRD-10397,T-Shirt 123,Fashion,Men Clothing,TrendHive India,2628.27,4110.64
+PRD-10398,LED Lamp 628,Home Decor,Lighting,CraftEdge Home,656.77,1021.44
+PRD-10399,Instant Meal 288,Grocery,Packaged Food,DailyNeeds Supply,1865.59,2016.45
+PRD-10400,Instant Meal 302,Grocery,Packaged Food,PrimeGrocers Ltd,1399.37,1557.53
+PRD-10401,ZenPro 870,Electronics,Laptops,Nova Imports,58042.9,62096.04
+PRD-10402,Pen Set 301,Office Supplies,Stationery,Stationery Hub,5805.25,7380.46
+PRD-10403,Cleaner 711,Grocery,Household Essentials,PrimeGrocers Ltd,859.78,942.56
+PRD-10404,Charger 732,Electronics,Accessories,ElectroHub Supply,75077.53,87865.03
+PRD-10405,File Organizer 420,Office Supplies,Storage Items,OfficePro India,4563.31,5351.15
+PRD-10406,Wardrobe 623,Furniture,Storage,UrbanSpace Furniture,49272.38,67393.76
+PRD-10407,Laser Printer 598,Office Supplies,Printers,Stationery Hub,1334.16,1779.99
+PRD-10408,LED Lamp 601,Home Decor,Lighting,CraftEdge Home,17436.96,24962.64
+PRD-10409,Notebook 596,Office Supplies,Stationery,Stationery Hub,5953.63,7321.78
+PRD-10410,Storage Box 518,Office Supplies,Storage Items,Corporate Essentials,642.14,781.51
+PRD-10411,Juice 678,Grocery,Beverages,FreshKart Distributors,1609.65,1658.61
+PRD-10412,Jeans 650,Fashion,Men Clothing,FashionNest Apparel,1800.8,2682.04
+PRD-10413,File Organizer 686,Office Supplies,Storage Items,Stationery Hub,5420.22,7230.42
+PRD-10414,Hoodie 659,Fashion,Men Clothing,TrendHive India,1862.46,2740.49
+PRD-10415,Decor Sculpture 995,Home Decor,Decorative Items,DecorNova,14828.77,20883.01
+PRD-10416,Smart Watch 314,Electronics,Smart Devices,TechCore India,21845.36,24222.51
+PRD-10417,Decor Sculpture 269,Home Decor,Decorative Items,CraftEdge Home,3074.88,4033.43
+PRD-10418,Gaming Mouse 431,Electronics,Accessories,ElectroHub Supply,42377.58,46804.36
+PRD-10419,File Organizer 868,Office Supplies,Storage Items,OfficePro India,9156.97,11194.2
+PRD-10420,Kurti 355,Fashion,Women Clothing,TrendHive India,2986.82,4693.17
+PRD-10421,Luxury Sofa 691,Furniture,Sofas,WoodCraft India,2628.53,3503.06
+PRD-10422,Energy Drink 913,Grocery,Beverages,FreshKart Distributors,372.51,415.91
+PRD-10423,Storage Box 565,Office Supplies,Storage Items,Stationery Hub,1571.76,1937.86
+PRD-10424,PixelMax 970,Electronics,Mobile Phones,ByteKart Technologies,11401.23,11629.25
+PRD-10425,Organic Mix 430,Grocery,Packaged Food,DailyNeeds Supply,1014.35,1099.13
+PRD-10426,Pen Set 907,Office Supplies,Stationery,Corporate Essentials,764.06,993.27
+PRD-10427,SmartOne 116,Electronics,Mobile Phones,TechCore India,20742.92,24201.74
+PRD-10428,Smart Hub 235,Electronics,Smart Devices,Nova Imports,20385.47,21910.09
+PRD-10429,Jacket 356,Fashion,Men Clothing,TrendHive India,375.44,568.88
+PRD-10430,Pendant Light 740,Home Decor,Lighting,DecorNova,11427.37,14547.02
+PRD-10431,LED Lamp 101,Home Decor,Lighting,CraftEdge Home,15577.89,21943.81
+PRD-10432,File Organizer 108,Office Supplies,Storage Items,Stationery Hub,5291.46,6551.63
+PRD-10433,Cleaner 172,Grocery,Household Essentials,FreshKart Distributors,813.51,878.89
+PRD-10434,PixelMax 406,Electronics,Mobile Phones,ElectroHub Supply,16643.02,17868.79
+PRD-10435,Coffee Table 676,Furniture,Tables,Elite Furnishings,43365.71,41197.42
+PRD-10436,Juice 743,Grocery,Beverages,PrimeGrocers Ltd,759.15,800.42
+PRD-10437,File Organizer 188,Office Supplies,Storage Items,Stationery Hub,6475.6,7976.3
+PRD-10438,Smart Camera 422,Electronics,Smart Devices,ElectroHub Supply,6903.98,7389.33
+PRD-10439,Wardrobe 968,Furniture,Storage,UrbanSpace Furniture,36366.67,48432.58
+PRD-10440,Study Table 402,Furniture,Tables,UrbanSpace Furniture,3300.61,4107.26
+PRD-10441,Luxury Sofa 346,Furniture,Sofas,WoodCraft India,13091.59,17469.14
+PRD-10442,Pen Set 235,Office Supplies,Stationery,Stationery Hub,295.13,345.54
+PRD-10443,Energy Drink 276,Grocery,Beverages,PrimeGrocers Ltd,1603.83,1677.72
+PRD-10444,XPhone 368,Electronics,Mobile Phones,TechCore India,53955.96,58324.44
+PRD-10445,Tissue Pack 829,Grocery,Household Essentials,DailyNeeds Supply,216.89,228.14
+PRD-10446,Canvas Art 384,Home Decor,Wall Art,DecorNova,14528.66,22512.07
+PRD-10447,Bookshelf 749,Furniture,Storage,WoodCraft India,41850.55,53545.13
+PRD-10448,Wall Light 547,Home Decor,Lighting,Aura Living,13461.28,17792.37
+PRD-10449,Smart Camera 726,Electronics,Smart Devices,TechCore India,26986.08,31479.9
+PRD-10450,LED Lamp 824,Home Decor,Lighting,DecorNova,556.14,528.33
+PRD-10451,Running Shoes 229,Fashion,Footwear,UrbanStyle Wholesale,1197.85,1628.22
+PRD-10452,Pendant Light 926,Home Decor,Lighting,DecorNova,3874.28,5633.45
+PRD-10453,Storage Box 566,Office Supplies,Storage Items,OfficePro India,4272.1,5675.63
+PRD-10454,Notebook 361,Office Supplies,Stationery,Stationery Hub,8192.69,9981.67
+PRD-10455,Vase 858,Home Decor,Decorative Items,DecorNova,5410.64,7482.33
+PRD-10456,Office Chair 492,Furniture,Chairs,WoodCraft India,30334.16,38027.29
+PRD-10457,Smart Camera 354,Electronics,Smart Devices,Nova Imports,51811.17,57159.3
+PRD-10458,Wireless Earbuds 283,Electronics,Accessories,TechCore India,46403.54,51354.63
+PRD-10459,Organic Mix 892,Grocery,Packaged Food,DailyNeeds Supply,603.04,672.61
+PRD-10460,Inkjet Printer 305,Office Supplies,Printers,OfficePro India,7659.7,9023.3
+PRD-10461,Decor Sculpture 477,Home Decor,Decorative Items,DecorNova,17408.82,24730.99
+PRD-10462,Dining Table 519,Furniture,Tables,Elite Furnishings,44938.51,42691.58
+PRD-10463,Decor Sculpture 101,Home Decor,Decorative Items,DecorNova,8676.71,10914.12
+PRD-10464,Jeans 529,Fashion,Men Clothing,UrbanStyle Wholesale,1489.65,2293.42
+PRD-10465,Wardrobe 337,Furniture,Storage,Elite Furnishings,32406.95,40559.81
+PRD-10466,Canvas Art 694,Home Decor,Wall Art,Aura Living,3045.31,4696.55
+PRD-10467,Nova 342,Electronics,Mobile Phones,ByteKart Technologies,78830.16,88158.9
+PRD-10468,Cleaner 425,Grocery,Household Essentials,PrimeGrocers Ltd,359.92,379.54
+PRD-10469,Dining Table 259,Furniture,Tables,UrbanSpace Furniture,2882.75,3986.44
+PRD-10470,Keyboard 888,Fashion,Accessories,UrbanStyle Wholesale,765.21,1187.44
+PRD-10471,Jeans 926,Fashion,Men Clothing,UrbanStyle Wholesale,1515.47,2339.83
+PRD-10472,Vase 955,Home Decor,Decorative Items,DecorNova,13132.98,20230.17
+PRD-10473,Wireless Earbuds 793,Fashion,Accessories,TrendHive India,1190.82,1612.19
+PRD-10474,Office Chair 669,Furniture,Chairs,WoodCraft India,8570.51,11827.34
+PRD-10475,Snacks Pack 112,Grocery,Packaged Food,FreshKart Distributors,1750.3,1896.92
+PRD-10476,Study Table 481,Furniture,Tables,Elite Furnishings,30824.81,41089.7
+PRD-10477,Wireless Earbuds 166,Electronics,Accessories,TechCore India,18152.85,21218.39
+PRD-10478,Wireless Earbuds 572,Electronics,Accessories,TechCore India,36407.79,37135.95
+PRD-10479,Canvas Art 491,Home Decor,Wall Art,Aura Living,10522.68,13326.32
+PRD-10480,Cabinet 252,Furniture,Storage,WoodCraft India,9981.6,13451.27
+PRD-10481,Cabinet 663,Furniture,Storage,WoodCraft India,5974.34,7889.9
+PRD-10482,Snacks Pack 758,Grocery,Packaged Food,DailyNeeds Supply,505.79,538.68
+PRD-10483,Decor Sculpture 900,Home Decor,Decorative Items,DecorNova,5987.27,8229.42
+PRD-10484,Running Shoes 284,Fashion,Footwear,FashionNest Apparel,3651.42,3468.85
+PRD-10485,Charger 642,Electronics,Accessories,TechCore India,47480.35,52792.76
+PRD-10486,Gaming Chair 346,Furniture,Chairs,Elite Furnishings,33856.22,46970.97
+PRD-10487,Wall Light 966,Home Decor,Lighting,DecorNova,14731.67,19522.84
+PRD-10488,Coffee Table 425,Furniture,Tables,Elite Furnishings,3496.79,4379.56
+PRD-10489,Marker Kit 460,Office Supplies,Stationery,Corporate Essentials,5991.27,6951.58
+PRD-10490,Marker Kit 416,Office Supplies,Stationery,Stationery Hub,5014.03,6364.65
+PRD-10491,UltraBook 639,Electronics,Laptops,Nova Imports,30068.29,34585.11
+PRD-10492,Wardrobe 921,Furniture,Storage,UrbanSpace Furniture,7116.72,8647.01
+PRD-10493,UltraBook 966,Electronics,Laptops,Nova Imports,59614.16,66434.85
+PRD-10494,Vase 444,Home Decor,Decorative Items,Aura Living,13861.53,19436.49
+PRD-10495,Tissue Pack 424,Grocery,Household Essentials,DailyNeeds Supply,507.88,560.56
+PRD-10496,Vase 781,Home Decor,Decorative Items,Aura Living,16048.49,23962.7
+PRD-10497,Canvas Art 846,Home Decor,Wall Art,DecorNova,5661.26,14842.94
+PRD-10498,Marker Kit 425,Office Supplies,Stationery,OfficePro India,3673.64,4291.97
+PRD-10499,Executive Chair 439,Furniture,Chairs,WoodCraft India,46031.05,56496.84
+PRD-10500,Dress 941,Fashion,Women Clothing,TrendHive India,4761.14,7170.76
+PRD-10501,Keyboard 314,Fashion,Accessories,UrbanStyle Wholesale,1088.64,1676.14
+PRD-10502,T-Shirt 149,Fashion,Men Clothing,TrendHive India,4390.14,7051.79
+PRD-10503,Corner Sofa 459,Furniture,Sofas,WoodCraft India,40714.94,54222.39
+PRD-10504,Tissue Pack 330,Grocery,Household Essentials,PrimeGrocers Ltd,1390.71,1538.72
+PRD-10505,Keyboard 367,Electronics,Accessories,TechCore India,23725.1,26420.87
+PRD-10506,Snacks Pack 660,Grocery,Packaged Food,PrimeGrocers Ltd,457.99,512.44
+PRD-10507,Wireless Earbuds 541,Fashion,Accessories,TrendHive India,4731.48,6452.79
+PRD-10508,Snacks Pack 439,Grocery,Packaged Food,FreshKart Distributors,1417.04,1577.55
+PRD-10509,Decor Sculpture 776,Home Decor,Decorative Items,CraftEdge Home,3857.33,5588.43
+PRD-10510,File Organizer 155,Office Supplies,Storage Items,Stationery Hub,9163.33,10600.04
+PRD-10511,Wireless Earbuds 126,Fashion,Accessories,UrbanStyle Wholesale,3547.62,5158.5
+PRD-10512,Smart Camera 903,Electronics,Smart Devices,TechCore India,74329.71,87429.4
+PRD-10513,Smart Camera 490,Electronics,Smart Devices,Nova Imports,75819.99,84285.13
+PRD-10514,Coffee 677,Grocery,Beverages,FreshKart Distributors,1726.84,1909.9
+PRD-10515,Wall Light 452,Home Decor,Lighting,DecorNova,6586.28,10143.66
+PRD-10516,Gaming Chair 528,Furniture,Chairs,WoodCraft India,3776.37,4981.99
+PRD-10517,Cleaner 406,Grocery,Household Essentials,FreshKart Distributors,475.42,494.84
+PRD-10518,Wall Light 629,Home Decor,Lighting,CraftEdge Home,1815.98,2712.53
+PRD-10519,Smart Watch 316,Electronics,Smart Devices,Nova Imports,30490.62,34887.97
+PRD-10520,Canvas Art 954,Home Decor,Wall Art,DecorNova,1587.52,2159.59
+PRD-10521,SmartOne 665,Electronics,Mobile Phones,ByteKart Technologies,45461.85,52408.15
+PRD-10522,Smart Camera 253,Electronics,Smart Devices,TechCore India,28906.44,32703.76
+PRD-10523,PixelMax 988,Electronics,Mobile Phones,TechCore India,71448.33,80741.06
+PRD-10524,Tissue Pack 723,Grocery,Household Essentials,DailyNeeds Supply,481.26,496.75
+PRD-10525,Instant Meal 797,Grocery,Packaged Food,PrimeGrocers Ltd,1742.8,1798.42
+PRD-10526,Saree 375,Fashion,Women Clothing,UrbanStyle Wholesale,4398.57,6752.37
+PRD-10527,Running Shoes 978,Fashion,Footwear,FashionNest Apparel,4707.52,7671.25
+PRD-10528,Coffee Table 553,Furniture,Tables,WoodCraft India,49900.84,63381.17
+PRD-10529,Canvas Art 292,Home Decor,Wall Art,CraftEdge Home,15413.61,21435.33
+PRD-10530,Detergent 627,Grocery,Household Essentials,DailyNeeds Supply,970.15,1054.04
+PRD-10531,Vase 899,Home Decor,Decorative Items,Aura Living,17511.44,27920.75
+PRD-10532,Dining Table 133,Furniture,Tables,Elite Furnishings,38877.12,49900.86
+PRD-10533,Pendant Light 943,Home Decor,Lighting,Aura Living,8600.73,12971.22
+PRD-10534,Pendant Light 600,Home Decor,Lighting,DecorNova,5003.91,6448.37
+PRD-10535,Storage Box 267,Office Supplies,Storage Items,Stationery Hub,3610.76,4359.8
+PRD-10536,LED Lamp 495,Home Decor,Lighting,Aura Living,6137.27,14712.1
+PRD-10537,Dining Table 793,Furniture,Tables,UrbanSpace Furniture,4020.47,4838.94
+PRD-10538,Notebook 585,Office Supplies,Stationery,Corporate Essentials,9878.45,12205.36
+PRD-10539,Pen Set 722,Office Supplies,Stationery,OfficePro India,3904.83,5021.34
+PRD-10540,Decor Sculpture 485,Home Decor,Decorative Items,Aura Living,4599.6,7278.8
+PRD-10541,Wireless Earbuds 107,Fashion,Accessories,TrendHive India,3974.46,5489.9
+PRD-10542,Sandals 210,Fashion,Footwear,FashionNest Apparel,2204.39,3654.2
+PRD-10543,Running Shoes 771,Fashion,Footwear,FashionNest Apparel,4734.71,7166.41
+PRD-10544,Kurti 158,Fashion,Women Clothing,UrbanStyle Wholesale,3144.37,4428.73
+PRD-10545,Inkjet Printer 797,Office Supplies,Printers,Corporate Essentials,9912.57,11858.75
+PRD-10546,Coffee 514,Grocery,Beverages,DailyNeeds Supply,1886.61,2053.51
+PRD-10547,Decor Sculpture 843,Home Decor,Decorative Items,DecorNova,12272.41,17542.69
+PRD-10548,Tissue Pack 407,Grocery,Household Essentials,DailyNeeds Supply,476.73,498.61
+PRD-10549,Notebook 582,Office Supplies,Stationery,Stationery Hub,2282.81,2710.35
+PRD-10550,Pen Set 770,Office Supplies,Stationery,Corporate Essentials,7817.89,9538.02
+PRD-10551,Abstract Painting 480,Home Decor,Wall Art,Aura Living,1439.5,2287.63
+PRD-10552,Instant Meal 694,Grocery,Packaged Food,PrimeGrocers Ltd,1769.9,1970.78
+PRD-10553,Office Chair 642,Furniture,Chairs,UrbanSpace Furniture,49755.58,61437.15
+PRD-10554,Study Table 519,Furniture,Tables,Elite Furnishings,21019.62,28411.12
+PRD-10555,Instant Meal 284,Grocery,Packaged Food,DailyNeeds Supply,1398.12,1459.43
+PRD-10556,Wall Light 159,Home Decor,Lighting,Aura Living,16371.91,39151.75
+PRD-10557,Dining Table 232,Furniture,Tables,WoodCraft India,12743.25,16660.46
+PRD-10558,Coffee 104,Grocery,Beverages,DailyNeeds Supply,1194.02,1292.18
+PRD-10559,Jeans 118,Fashion,Men Clothing,FashionNest Apparel,639.14,1059.13
+PRD-10560,Study Table 419,Furniture,Tables,UrbanSpace Furniture,14748.8,18080.6
+PRD-10561,Laser Printer 943,Office Supplies,Printers,OfficePro India,8898.61,11934.2
+PRD-10562,Tissue Pack 636,Grocery,Household Essentials,PrimeGrocers Ltd,1727.01,1904.64
+PRD-10563,Cabinet 868,Furniture,Storage,WoodCraft India,33451.62,43827.36
+PRD-10564,Snacks Pack 844,Grocery,Packaged Food,FreshKart Distributors,192.23,205.06
+PRD-10565,ZenPro 828,Electronics,Laptops,TechCore India,32951.64,35711.93
+PRD-10566,T-Shirt 777,Fashion,Men Clothing,TrendHive India,3672.42,5595.14
+PRD-10567,SmartOne 489,Electronics,Mobile Phones,ByteKart Technologies,11078.47,11949.5
+PRD-10568,Office Chair 777,Furniture,Chairs,WoodCraft India,34796.42,42285.52
+PRD-10569,File Organizer 528,Office Supplies,Storage Items,Corporate Essentials,8526.95,10650.41
+PRD-10570,Decor Sculpture 216,Home Decor,Decorative Items,DecorNova,9767.56,14234.68
+PRD-10571,Saree 402,Fashion,Women Clothing,FashionNest Apparel,4158.47,6120.16
+PRD-10572,Luxury Sofa 102,Furniture,Sofas,WoodCraft India,34544.78,32817.54
+PRD-10573,Smart Watch 898,Electronics,Smart Devices,Nova Imports,25027.12,29137.12
+PRD-10574,Top 370,Fashion,Women Clothing,FashionNest Apparel,4027.64,6365.52
+PRD-10575,Office Chair 920,Furniture,Chairs,WoodCraft India,42827.92,58822.39
+PRD-10576,XPhone 972,Electronics,Mobile Phones,TechCore India,58127.22,67358.5
+PRD-10577,Tissue Pack 195,Grocery,Household Essentials,DailyNeeds Supply,1400.99,1528.78
+PRD-10578,Smart Camera 378,Electronics,Smart Devices,ByteKart Technologies,51395.85,58994.89
+PRD-10579,Detergent 235,Grocery,Household Essentials,FreshKart Distributors,334.04,370.54
+PRD-10580,Gaming Chair 594,Furniture,Chairs,WoodCraft India,43848.49,52874.68
+PRD-10581,Recliner 129,Furniture,Sofas,WoodCraft India,41639.2,51040.25
+PRD-10582,Pendant Light 215,Home Decor,Lighting,Aura Living,6901.84,10423.35
+PRD-10583,Canvas Art 785,Home Decor,Wall Art,DecorNova,3466.97,5326.27
+PRD-10584,Marker Kit 844,Office Supplies,Stationery,Stationery Hub,8338.13,10435.12
+PRD-10585,Vase 959,Home Decor,Decorative Items,Aura Living,425.8,575.03
+PRD-10586,ThinkEdge 990,Electronics,Laptops,ByteKart Technologies,51269.52,60372.64
+PRD-10587,Sandals 328,Fashion,Footwear,UrbanStyle Wholesale,3232.7,4658.1
+PRD-10588,Office Chair 920,Furniture,Chairs,WoodCraft India,32432.27,42421.31
+PRD-10589,Juice 609,Grocery,Beverages,DailyNeeds Supply,1564.09,1626.07
+PRD-10590,Energy Drink 662,Grocery,Beverages,FreshKart Distributors,1526.84,1450.5
+PRD-10591,Storage Box 620,Office Supplies,Storage Items,Corporate Essentials,9633.62,11737.36
+PRD-10592,Juice 936,Grocery,Beverages,DailyNeeds Supply,1272.59,1417.52
+PRD-10593,Storage Box 833,Office Supplies,Storage Items,Corporate Essentials,1114.85,1491.05
+PRD-10594,XPhone 449,Electronics,Mobile Phones,Nova Imports,56591.43,59920.07
+PRD-10595,File Organizer 146,Office Supplies,Storage Items,Stationery Hub,3079.54,3977.64
+PRD-10596,Decor Sculpture 209,Home Decor,Decorative Items,CraftEdge Home,1626.81,2364.99
+PRD-10597,Snacks Pack 833,Grocery,Packaged Food,DailyNeeds Supply,704.85,765.38
+PRD-10598,SmartOne 774,Electronics,Mobile Phones,ByteKart Technologies,8430.65,9807.37
+PRD-10599,SmartOne 620,Electronics,Mobile Phones,ByteKart Technologies,78011.67,91738.14
+PRD-10600,Study Table 773,Furniture,Tables,Elite Furnishings,37983.29,46568.17
+PRD-10601,Laser Printer 380,Office Supplies,Printers,Stationery Hub,7606.81,8785.24
+PRD-10602,Gaming Mouse 522,Fashion,Accessories,UrbanStyle Wholesale,306.19,448.04
+PRD-10603,Inkjet Printer 828,Office Supplies,Printers,Corporate Essentials,4937.57,6438.99
+PRD-10604,Coffee Table 831,Furniture,Tables,Elite Furnishings,34798.18,44861.14
+PRD-10605,Wall Light 282,Home Decor,Lighting,CraftEdge Home,5690.45,9098.99
+PRD-10606,Charger 790,Electronics,Accessories,ByteKart Technologies,36963.6,40980.82
+PRD-10607,Snacks Pack 125,Grocery,Packaged Food,PrimeGrocers Ltd,343.98,378.91
+PRD-10608,PowerLite 393,Electronics,Laptops,ElectroHub Supply,57026.17,61514.13
+PRD-10609,Dress 467,Fashion,Women Clothing,TrendHive India,595.43,945.65
+PRD-10610,Vase 860,Home Decor,Decorative Items,CraftEdge Home,13193.87,17754.21
+PRD-10611,Canvas Art 490,Home Decor,Wall Art,CraftEdge Home,19032.01,24796.24
+PRD-10612,Jacket 307,Fashion,Men Clothing,UrbanStyle Wholesale,2275.21,3822.96
+PRD-10613,Instant Meal 826,Grocery,Packaged Food,PrimeGrocers Ltd,851.06,925.5
+PRD-10614,File Organizer 894,Office Supplies,Storage Items,Corporate Essentials,4036.18,4862.96
+PRD-10615,Snacks Pack 291,Grocery,Packaged Food,PrimeGrocers Ltd,1968.28,2099.84
+PRD-10616,Smart Camera 385,Electronics,Smart Devices,TechCore India,72057.44,77814.4
+PRD-10617,Hoodie 826,Fashion,Men Clothing,FashionNest Apparel,1222.9,1664.24
+PRD-10618,Jacket 602,Fashion,Men Clothing,TrendHive India,3328.0,4922.06
+PRD-10619,Gaming Mouse 633,Electronics,Accessories,Nova Imports,69826.87,71223.41
+PRD-10620,Inkjet Printer 326,Office Supplies,Printers,OfficePro India,9685.11,11497.24
+PRD-10621,Sneakers 870,Fashion,Footwear,FashionNest Apparel,4369.39,7086.32
+PRD-10622,File Organizer 784,Office Supplies,Storage Items,OfficePro India,7732.13,10198.34
+PRD-10623,Vase 140,Home Decor,Decorative Items,CraftEdge Home,15292.17,22466.91
+PRD-10624,Smart Hub 841,Electronics,Smart Devices,ElectroHub Supply,14843.37,15648.3
+PRD-10625,Wireless Earbuds 403,Fashion,Accessories,FashionNest Apparel,4620.07,7234.23
+PRD-10626,Notebook 891,Office Supplies,Stationery,,7985.72,9952.64
+PRD-10627,ThinkEdge 955,Electronics,Laptops,Nova Imports,13798.11,14712.57
+PRD-10628,Canvas Art 864,Home Decor,Wall Art,CraftEdge Home,13805.64,13115.36
+PRD-10629,XPhone 282,Electronics,Mobile Phones,TechCore India,20039.35,22321.98
+PRD-10630,Cabinet 561,Furniture,Storage,WoodCraft India,5082.03,6689.96
+PRD-10631,Smart Hub 106,Electronics,Smart Devices,TechCore India,25174.51,29043.4
+PRD-10632,Notebook 466,Office Supplies,Stationery,Corporate Essentials,3172.58,3937.31
+PRD-10633,Canvas Art 388,Home Decor,Wall Art,CraftEdge Home,528.92,674.56
+PRD-10634,LED Lamp 646,Home Decor,Lighting,Aura Living,8032.12,11389.37
+PRD-10635,Laser Printer 405,Office Supplies,Printers,Corporate Essentials,6040.2,7298.57
+PRD-10636,Vase 666,Home Decor,Decorative Items,Aura Living,13991.14,21700.86
+PRD-10637,File Organizer 412,Office Supplies,Storage Items,Stationery Hub,7820.52,9055.57
+PRD-10638,Abstract Painting 761,Home Decor,Wall Art,DecorNova,9765.99,12566.15
+PRD-10639,Laser Printer 285,Office Supplies,Printers,OfficePro India,2496.25,3363.28
+PRD-10640,Smart Camera 787,Electronics,Smart Devices,TechCore India,15687.17,16000.91
+PRD-10641,Juice 787,Grocery,Beverages,DailyNeeds Supply,1243.95,1359.91
+PRD-10642,Pen Set 597,Office Supplies,Stationery,OfficePro India,5640.52,6497.62
+PRD-10643,Top 927,Fashion,Women Clothing,TrendHive India,1767.01,2705.64
+PRD-10644,Gaming Mouse 829,Electronics,Accessories,Nova Imports,11589.99,12697.78
+PRD-10645,Cabinet 556,Furniture,Storage,WoodCraft India,3593.75,4368.98
+PRD-10646,Marker Kit 721,Office Supplies,Stationery,OfficePro India,4029.54,4740.93
+PRD-10647,Coffee Table 741,Furniture,Tables,WoodCraft India,29241.96,39122.61
+PRD-10648,Nova 137,Electronics,Mobile Phones,ByteKart Technologies,65044.0,69988.61
+PRD-10649,Cleaner 501,Grocery,Household Essentials,FreshKart Distributors,351.62,365.48
+PRD-10650,Abstract Painting 613,Home Decor,Wall Art,DecorNova,12837.68,19221.43
+PRD-10651,Wall Light 269,Home Decor,Lighting,CraftEdge Home,922.25,1455.01
+PRD-10652,File Organizer 853,Office Supplies,Storage Items,Corporate Essentials,614.52,773.23
+PRD-10653,PowerLite 164,Electronics,Laptops,ByteKart Technologies,58179.54,67675.95
+PRD-10654,Inkjet Printer 565,Office Supplies,Printers,Stationery Hub,7169.46,9394.47
+PRD-10655,Abstract Painting 954,Home Decor,Wall Art,DecorNova,6987.17,10726.63
+PRD-10656,Cleaner 701,Grocery,Household Essentials,DailyNeeds Supply,178.63,198.37
+PRD-10657,Laser Printer 628,Office Supplies,Printers,Stationery Hub,5521.16,7251.82
+PRD-10658,Wireless Earbuds 613,Fashion,Accessories,FashionNest Apparel,2371.13,3735.13
+PRD-10659,Gaming Chair 387,Furniture,Chairs,UrbanSpace Furniture,27267.33,36710.49
+PRD-10660,Jeans 524,Fashion,Men Clothing,TrendHive India,591.82,811.46
+PRD-10661,Cleaner 315,Grocery,Household Essentials,DailyNeeds Supply,509.26,531.85
+PRD-10662,Snacks Pack 230,Grocery,Packaged Food,FreshKart Distributors,1746.13,1832.96
+PRD-10663,Vase 157,Home Decor,Decorative Items,DecorNova,19524.55,26707.9
+PRD-10664,Tissue Pack 119,Grocery,Household Essentials,PrimeGrocers Ltd,380.59,419.06
+PRD-10665,Hoodie 721,Fashion,Men Clothing,UrbanStyle Wholesale,3361.8,5124.62
+PRD-10666,Coffee Table 246,Furniture,Tables,WoodCraft India,28657.45,38511.04
+PRD-10667,Bookshelf 802,Furniture,Storage,Elite Furnishings,12965.83,18142.66
+PRD-10668,Pen Set 494,Office Supplies,Stationery,OfficePro India,9750.45,12481.21
+PRD-10669,Storage Box 946,Office Supplies,Storage Items,Corporate Essentials,2075.47,2669.15
+PRD-10670,Detergent 998,Grocery,Household Essentials,PrimeGrocers Ltd,162.95,168.29
+PRD-10671,Nova 717,Electronics,Mobile Phones,ByteKart Technologies,24326.22,23109.91
+PRD-10672,Decor Sculpture 479,Home Decor,Decorative Items,Aura Living,17404.97,26185.94
+PRD-10673,Energy Drink 923,Grocery,Beverages,DailyNeeds Supply,1490.56,1592.36
+PRD-10674,Decor Sculpture 237,Home Decor,Decorative Items,DecorNova,7114.92,9817.62
+PRD-10675,Keyboard 293,Electronics,Accessories,,79073.72,80655.19
+PRD-10676,Notebook 484,Office Supplies,Stationery,Corporate Essentials,8683.61,10991.15
+PRD-10677,Wireless Earbuds 258,Fashion,Accessories,FashionNest Apparel,2305.35,3697.41
+PRD-10678,Keyboard 726,Fashion,Accessories,TrendHive India,2536.01,4198.87
+PRD-10679,Recliner 594,Furniture,Sofas,UrbanSpace Furniture,45233.69,58095.63
+PRD-10680,Energy Drink 452,Grocery,Beverages,DailyNeeds Supply,568.12,615.45
+PRD-10681,Executive Chair 557,Furniture,Chairs,UrbanSpace Furniture,45793.44,56881.52
+PRD-10682,ZenPro 920,Electronics,Laptops,ByteKart Technologies,51722.49,58555.18
+PRD-10683,Luxury Sofa 923,Furniture,Sofas,UrbanSpace Furniture,37189.43,45605.9
+PRD-10684,Laser Printer 369,Office Supplies,Printers,OfficePro India,7186.67,9571.25
+PRD-10685,Smart Hub 771,Electronics,Smart Devices,ByteKart Technologies,18476.23,19970.6
+PRD-10686,Luxury Sofa 306,Furniture,Sofas,WoodCraft India,48626.96,60112.42
+PRD-10687,Laser Printer 902,Office Supplies,Printers,OfficePro India,8558.41,10684.79
+PRD-10688,Dining Table 468,Furniture,Tables,,13867.09,19055.46
+PRD-10689,Office Chair 461,Furniture,Chairs,WoodCraft India,23374.65,30456.32
+PRD-10690,Gaming Chair 170,Furniture,Chairs,UrbanSpace Furniture,19243.2,25373.89
+PRD-10691,Decor Sculpture 455,Home Decor,Decorative Items,CraftEdge Home,3521.42,4883.78
+PRD-10692,Recliner 104,Furniture,Sofas,WoodCraft India,48531.79,60743.68
+PRD-10693,PixelMax 219,Electronics,Mobile Phones,ElectroHub Supply,54255.25,59261.64
+PRD-10694,Inkjet Printer 486,Office Supplies,Printers,Corporate Essentials,7757.38,9124.03
+PRD-10695,Charger 700,Fashion,Accessories,TrendHive India,4855.14,7325.56
+PRD-10696,Jeans 793,Fashion,Men Clothing,FashionNest Apparel,1333.04,1833.89
+PRD-10697,Energy Drink 109,Grocery,Beverages,PrimeGrocers Ltd,356.12,383.46
+PRD-10698,Jacket 177,Fashion,Men Clothing,FashionNest Apparel,1817.62,2981.1
+PRD-10699,Sandals 375,Fashion,Footwear,UrbanStyle Wholesale,2268.26,3259.6
+PRD-10700,Luxury Sofa 340,Furniture,Sofas,UrbanSpace Furniture,31622.96,42417.63
+PRD-10159,File Organizer 363,Office Supplies,Storage Items,Stationery Hub,4148.63,4914.71
+PRD-10501,Keyboard 314,Fashion,Accessories,UrbanStyle Wholesale,1088.64,1676.14
+PRD-10397,T-Shirt 123,Fashion,Men Clothing,TrendHive India,2628.27,4110.64
+PRD-10156,Vase 742,Home Decor,Decorative Items,DecorNova,8947.74,11430.38
+PRD-10322,File Organizer 677,Office Supplies,Storage Items,Stationery Hub,2193.34,2666.0
